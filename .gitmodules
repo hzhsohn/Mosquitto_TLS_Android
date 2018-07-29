@@ -1,6 +1,0 @@
-[submodule "android-cmake"]
-	path = android-cmake
-	url = https://github.com/taka-no-me/android-cmake.git
-[submodule "mosquitto"]
-	path = mosquitto
-	url = https://github.com/trongvu/mosquitto
